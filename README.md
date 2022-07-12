@@ -4,7 +4,9 @@
 ```
 npm install
 ```
+
 ## Project setup to test with fake api
+
 
 **_Run the below command in different terminal(fake API will be there)_**
 ```
@@ -13,8 +15,12 @@ npx json-server --watch db.json
 
 Note: copy the path of above path if it's not " http://localhost:3000" and paste it in baseAPI 
 
+
+
 ### Compiles and hot-reloads for development
-##### Run the below command in different terminal(to run frontend)
+
+
+**_Run the below command in different terminal(to run frontend)_**
 ```
 npm run serve
 ```
