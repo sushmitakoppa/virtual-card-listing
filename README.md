@@ -6,7 +6,7 @@ npm install
 ```
 ## Project setup to test with fake api
 
-** Run the below command in different terminal(fake API will be there) **
+**_Run the below command in different terminal(fake API will be there)_**
 ```
 npx json-server --watch db.json
 ```
